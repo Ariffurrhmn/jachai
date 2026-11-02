@@ -237,7 +237,9 @@ Nothing to contribute to yet. Once the skeleton is in place I'll document how to
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+All rights reserved. See [LICENSE](LICENSE).
+
+Source is viewable for reference; reuse requires permission.
 
 ## About the name
 
