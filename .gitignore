@@ -1,0 +1,67 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.npm/
+*.tsbuildinfo
+
+# Build output
+dist/
+build/
+out/
+.vite/
+coverage/
+*.zip
+*.crx
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Data (kept local; the labeled set contains real posts)
+ml/data/raw/*
+ml/data/processed/*
+ml/data/labeled/*
+!ml/data/raw/.gitkeep
+!ml/data/processed/.gitkeep
+!ml/data/labeled/.gitkeep
+
+# Model weights and checkpoints
+*.onnx
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.h5
+checkpoints/
+runs/
+wandb/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
