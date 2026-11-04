@@ -1,3 +1,3 @@
 # Evaluation
 
-This document will define the evaluation protocol: metrics, splits, per-language breakdowns, the public-vs-real comparison, and the results of each model. All results are TBD.
+This document will define the evaluation protocol: per-tag precision and recall, per-language breakdowns, wrongly blurred and missed posts per 100, the public-vs-real comparison, and image-blur results. All results are TBD.
